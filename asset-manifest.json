@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Seasons-app/static/css/main.da71ba57.chunk.css",
+    "main.js": "/React-Seasons-app/static/js/main.455ad75a.chunk.js",
+    "main.js.map": "/React-Seasons-app/static/js/main.455ad75a.chunk.js.map",
+    "runtime-main.js": "/React-Seasons-app/static/js/runtime-main.35d2d4ae.js",
+    "runtime-main.js.map": "/React-Seasons-app/static/js/runtime-main.35d2d4ae.js.map",
+    "static/css/2.bfe2cc54.chunk.css": "/React-Seasons-app/static/css/2.bfe2cc54.chunk.css",
+    "static/js/2.6cbd4305.chunk.js": "/React-Seasons-app/static/js/2.6cbd4305.chunk.js",
+    "static/js/2.6cbd4305.chunk.js.map": "/React-Seasons-app/static/js/2.6cbd4305.chunk.js.map",
+    "index.html": "/React-Seasons-app/index.html",
+    "static/css/2.bfe2cc54.chunk.css.map": "/React-Seasons-app/static/css/2.bfe2cc54.chunk.css.map",
+    "static/css/main.da71ba57.chunk.css.map": "/React-Seasons-app/static/css/main.da71ba57.chunk.css.map",
+    "static/js/2.6cbd4305.chunk.js.LICENSE.txt": "/React-Seasons-app/static/js/2.6cbd4305.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/React-Seasons-app/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d2d4ae.js",
+    "static/css/2.bfe2cc54.chunk.css",
+    "static/js/2.6cbd4305.chunk.js",
+    "static/css/main.da71ba57.chunk.css",
+    "static/js/main.455ad75a.chunk.js"
+  ]
+}
